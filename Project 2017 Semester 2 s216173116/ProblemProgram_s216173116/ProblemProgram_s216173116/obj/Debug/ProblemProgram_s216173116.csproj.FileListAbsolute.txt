@@ -1,0 +1,55 @@
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe.config
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csprojResolveAssemblyReference.cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmEnterProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.Properties.Resources.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csproj.GenerateResource.Cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical2_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe.config
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csprojResolveAssemblyReference.cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmEnterProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.Properties.Resources.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csproj.GenerateResource.Cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAllocateProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmTransfer.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAddProblemLog.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmCloseProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical3_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmReports.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe.config
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csprojResolveAssemblyReference.cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAddProblemLog.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAllocateProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmCloseProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmEnterProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmReports.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmTransfer.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.Properties.Resources.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csproj.GenerateResource.Cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmLogin.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Practical4_s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAllocateMultipleProblems.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe.config
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\bin\Debug\ProblemProgram_s216173116.pdb
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csprojResolveAssemblyReference.cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAddProblemLog.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAllocateMultipleProblems.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmAllocateProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmCloseProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmEnterProblem.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmLogin.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmReports.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.frmTransfer.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.Properties.Resources.resources
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.csproj.GenerateResource.Cache
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.exe
+C:\Users\Aboebie\Desktop\NMMU\ONT2000\! Semester 2\Project 2017 Semester 2 s216173116\ProblemProgram_s216173116\ProblemProgram_s216173116\obj\Debug\ProblemProgram_s216173116.pdb
